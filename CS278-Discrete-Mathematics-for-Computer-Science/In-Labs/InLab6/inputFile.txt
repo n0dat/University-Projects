@@ -1,0 +1,14 @@
+4
+blue
+green
+yellow
+orange
+8
+yellow
+orange
+red
+brown
+black
+blue
+white
+gray
